@@ -27,3 +27,25 @@ I joined Indian Institute of Technology Kanpur in May 2022 as a Research Associa
 
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
+
+<h3 id="research-interests">Research interests:</h3>
+<ul>
+  <li>Machine learning for audio signal processing
+    <ul>
+      <li>audio retrieval: multi-label classification</li>
+      <li>melody estimation: transfer learning</li>
+      <li>speech recognition: confidence estimation</li>
+      <li>music analysis: explainable AI</li>
+    </ul>
+  </li>
+  <li>Machine learning for Physics
+    <ul>
+      <li>generative modeling, normalizing flows, adversarial learning</li>
+    </ul>
+  </li>
+  <li>Time series analysis on sensor data
+    <ul>
+      <li>Sensor calibration: domain adaptation, semi-supervised learning</li>
+    </ul>
+  </li>
+</ul>
