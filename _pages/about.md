@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://madhavlab.github.io/team/">Post Doctoral Fellow</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href="https://madhavlab.github.io/team/">Post Doctoral Fellow</a>, <a href="https://madhavlab.github.io/">MadhavLab</a>  Indian Institute of Technology Kanpur
 
 profile:
   align: right
