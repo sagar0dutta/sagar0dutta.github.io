@@ -31,4 +31,5 @@ I joined Indian Institute of Technology Kanpur in May 2022 as a Research Associa
   - Machine health monitoring 
 
 - Machine learning for audio signal processing
-  -Audio retrieval
+  - Audio retrieval
+  - Audio event detection
