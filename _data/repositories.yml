@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sagar0dutta
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sagar0dutta/logic_building
+  - sagar0dutta/machine_learning
+  - sagar0dutta/deep_learning
+  - sagar0dutta/Algorithm
