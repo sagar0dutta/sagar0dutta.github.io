@@ -22,7 +22,7 @@ nav_order: 1
 
 ## Conference
 
-<div class="publications_conf">
+<div class="publications">
 
 {%- for y in page.years_conf %}
   <h2 class="year">{{y}}</h2>
