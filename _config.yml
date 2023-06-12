@@ -276,6 +276,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
+  bibliography_conf: conf.bib
   bibliography: papers.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
