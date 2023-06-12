@@ -20,7 +20,7 @@ nav_order: 1
 
 </div>
 
-## Conference
+## Conferences
 
 <div class="publications">
 
