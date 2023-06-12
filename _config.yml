@@ -173,7 +173,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: False
     permalink: /projects/:path/
 
 announcements:
@@ -270,8 +270,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags wil
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Dutta]
+  first_name: [Sagar]
 
   style: apa
   locale: en
@@ -350,7 +350,7 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    True  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
