@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper titled "AudioNet: Supervised Deep Hashing for Retrieval and Ranking of Audio Events" submitted in IEEE Transactions on Audio, Speech and Language Processing
+Paper titled **"AudioNet: Supervised Deep Hashing for Retrieval and Ranking of Audio Events"** submitted in **IEEE Transactions on Audio, Speech and Language Processing**
