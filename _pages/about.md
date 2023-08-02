@@ -33,4 +33,4 @@ I joined Indian Institute of Technology Kanpur in May 2022 as a Research Associa
 - Machine learning for audio signal processing
   - Music Information Retrieval
   - Audio retrieval: representation learning
-  - Audio event detection
+  - Cross/multi modal information retrieval
