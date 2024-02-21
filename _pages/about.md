@@ -19,20 +19,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I obtained my Bachelor of Engineering degree in Electronics and Communication Engineering from Gauhati University, Assam and Master of Engineering degree in Information and Communication Technologies from the Asian Institute of Technology in Thailand. I received my Ph.D. degree in Electronics and Communication Engineering from the National Institute of Technology Silchar, India in 2022. My Ph.D thesis is titled "Pattern Recognition Based on Microwave Signal Using Artificial Intelligence" where I worked on pattern recognition based on antenna's reactive's field for applications like Human Activity Recognition (HAR) and Machine Health Monitoring. My research work is interdisciplinary and I am particularly interested in exploring the use of antenna and AI technologies to enhance the accuracy and reliability of activity recognition systems. The question is: does an antenna have the potential to become a low-cost sensor to recognize physical phenomena using AI to explore the concrete applications of HAR on healthcare, machine health monitoring, etc.?
+I obtained my Bachelor of Engineering degree in Electronics and Communication Engineering from Gauhati University, Assam and Master of Engineering degree in Information and Communication Technologies from the Asian Institute of Technology in Thailand. I received my Ph.D. degree in Electronics and Communication Engineering from the National Institute of Technology Silchar, India in 2022. My Ph.D thesis is titled “Pattern Recognition Based on Microwave Signal Using Artificial Intelligence” where I worked on pattern recognition based on antenna’s reactive’s field for applications like Human Activity Recognition (HAR) and Machine Health Monitoring. 
 
-I joined Indian Institute of Technology Kanpur in May 2022 as a post doctoral researcher. I developed archival content retrieval system based on text/audio query for Prasar Bharati and I played a leading role in handling deployment of AI model for Prasar Bharati's multimedia for efficient search and recommendation. My postdoctoral research work emphasizes on the significance of learning to hash for approximate nearest neighbor search in massive scale multimedia retrieval.
+As a postdoctorate, I joined The Machine Analysis of Data for Human Audition and Visualization (MADHAV) Lab in the Department of Electrical Engineering at the Indian Institute of Technology Kanpur. The group’s research interests lie at the intersection of the theory and application of machine learning with a focus on Machine Learning for Audio Signal Processing. As a trained western classical guitarist, my research focus naturally shifted towards the application of machine learning in audio signal processing and music information retrieval.
 
-I am deeply interested in exploring cross-modal challenges in activity and music domains, aiming to leverage multi-modal information retrieval techniques to address complex research problems. 
+During my postdoctorate at MADHAV LAB, I developed and researched on Audio-based Recommendation System for India’s National Broadcaster, Prasar Bharati, and I played a leading role in handling the deployment of the AI model for Prasar Bharati’s multimedia for efficient search and recommendation.
 
-# Research Interest
+Currently I am pursuing my second postdoctorate at the RITMO Centre for Interdisciplinary Studies in Rhythm, Time and Motion, University of Oslo, Norway
 
-- Machine Learning for Antenna Technology
-  - Antenna-based Human Activity Recognition
-  - Object localization
-  - Machine health monitoring 
+# Research Interest:
 
-- Machine learning for audio signal processing
-  - Music Information Retrieval
-  - Audio retrieval: representation learning
-  - Cross/multi modal information retrieval
+My research interest lies at the intersection of machine learning, audio signal processing, and music information retrieval, with a particular focus on multimodal representation learning. I dedicate my efforts to formulating learning-based methodologies predominantly for the processing of audio content, encompassing both musical elements and a variety of other sounds, but not limited to these modalities.
+
+Currently, I am engaged in research on the synchronization of multimodal representations, specifically focusing on integrating motion capture data with music. My work aims to explore and develop applications for this synchronization.
