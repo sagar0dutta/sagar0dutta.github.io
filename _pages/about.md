@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Electrical Engineering</p>
-    <p>Indian Institute of Technology Kanpur</p>
-    <p>Kanpur, Uttar Pradesh, India</p>
+    <p>Department of Musicology,</p>
+    <p>University of Oslo</p>
+    <p>Oslo, Norway</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
