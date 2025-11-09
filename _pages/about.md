@@ -6,7 +6,7 @@ subtitle: <a href="https://www.uio.no/ritmo/english/people/postdoctoral-fellows/
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Sagar_02.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Department of Musicology,</p>
