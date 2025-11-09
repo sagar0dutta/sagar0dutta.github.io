@@ -169,18 +169,11 @@ collections:
   news:
     defaults:
       layout: post
-    output: False
+    output: false
     permalink: /news/:path/
   projects:
-    output: False
+    output: false
     permalink: /projects/:path/
-  
-  repositories:
-    output: False     # HIDE
-    permalink: /repositories/:path/
-  teaching:
-    output: False     # HIDE
-    permalink: /teaching/:path/
 
 announcements:
   enabled: true
