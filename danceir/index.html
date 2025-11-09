@@ -132,72 +132,6 @@
 
 <hr>
 
-<h2 id="overview">Overview</h2>
-
-<p>Natural human movement contains strong rhythmic structure. Dancers often articulate <strong>beats</strong>, <strong>subdivisions</strong>, and <strong>metrical layers</strong> through coordinated hand, foot, and torso motions. DanceIR formalizes these patterns as <em>rhythmic anchors</em>—kinematic events such as:</p>
-
-<ul>
-  <li>trajectory endpoints (zero-velocity points),</li>
-  <li>velocity peaks,</li>
-  <li>motion-energy peaks.</li>
-</ul>
-
-<p>These anchors form periodic sequences that reveal the dancer’s <strong>internal pulse</strong>. DanceIR tracks these sequences over time and derives a <strong>global tempo estimate</strong> aligned with the dancer’s movement patterns.</p>
-
-<p>The framework is designed for research on dance–music interaction, multimodal rhythm analysis, and embodied entrainment.</p>
-
-<hr>
-
-<h2 id="method-summary">Method Summary</h2>
-
-<h3 id="1-rhythmic-anchor-extraction"><strong>1. Rhythmic Anchor Extraction</strong></h3>
-<p>DanceIR identifies movement anchors from pose or motion-capture data.<br>
-Common anchor types include:</p>
-<ul>
-  <li>
-<strong>Zero-velocity anchors</strong> (trajectory reversals)</li>
-  <li><strong>Peak-velocity anchors</strong></li>
-  <li><strong>Motion-energy peaks</strong></li>
-  <li>
-<strong>Foot contact events</strong> (from foot-ground interaction)</li>
-</ul>
-
-<p>These sequences represent the dancer’s primary periodic motions.</p>
-
-<hr>
-
-<h3 id="2-periodicity--tempo-estimation"><strong>2. Periodicity &amp; Tempo Estimation</strong></h3>
-<p>Tempo is estimated by analyzing anchor sequences using:</p>
-<ul>
-  <li>inter-onset interval (IOI) statistics,</li>
-  <li>windowed periodicity analysis,</li>
-  <li>log-scaled tempo tracking,</li>
-  <li>a novel <strong>Octave-Invariant Accuracy metric</strong>.</li>
-</ul>
-
-<p>DanceIR outputs both:</p>
-<ul>
-  <li>
-<strong>continuous tempo curves</strong>, and</li>
-  <li>
-<strong>global tempo estimates</strong> per performance.</li>
-</ul>
-
-<hr>
-
-<h3 id="3-octave-invariant-metric-γoi"><strong>3. Octave-Invariant Metric (Γ<sub>OI</sub>)</strong></h3>
-<p>To quantify dance-derived tempo accuracy, DanceIR introduces the continuous, log-scaled <strong>Octave-Invariant Accuracy</strong>:</p>
-
-<ul>
-  <li>Perfect alignment at half-time, original tempo, or double-time → Γ<sub>OI</sub> = 1</li>
-  <li>Outside the tolerance band → Γ<sub>OI</sub> = 0</li>
-  <li>A tempo estimate is considered a <em>hit</em> when Γ<sub>OI</sub> &gt; 0</li>
-</ul>
-
-<p>This provides a musically meaningful evaluation consistent with metrical hierarchy.</p>
-
-<hr>
-
 <h2 id="supplementary-videos">Supplementary Videos</h2>
 
 <p>Below are selected demonstrations generated using DanceIR.<br>
@@ -208,7 +142,7 @@ Videos illustrate anchor extraction, periodicity tracking, global tempo estimati
 <code class="language-plaintext highlighter-rouge">https://sagar0dutta.github.io/danceir-supplementary/videos/</code></p>
 </blockquote>
 
-<h3 id="anchor-extraction-example"><strong>Anchor Extraction Example</strong></h3>
+<h3 id="template-a"><strong>Template A</strong></h3>
 <video controls="" width="100%">
   <source src="/danceir-supplementary/videos/anchor_extraction.mp4" type="video/mp4"></source>
 </video>
@@ -217,27 +151,65 @@ Videos illustrate anchor extraction, periodicity tracking, global tempo estimati
 <hr>
 
 <h3 id="global-tempo-estimation-γoi"><strong>Global Tempo Estimation (Γ<sub>OI</sub>)</strong></h3>
-<video controls="" width="100%">
-  <source src="/danceir-supplementary/videos/tempo_estimation.mp4" type="video/mp4"></source>
-</video>
-<p><em>Tempo tracking using rhythmic anchors and octave-invariant scoring.</em></p>
+<div class="row">
+  <div class="col-md-6">
+    <h4>Video 1 Title</h4>
+    <video width="100%" controls="">
+      <source src="assets/videos/video1.mp4" type="video/mp4"></source>
+      Your browser does not support the video tag.
+    </video>
+    <p class="text-muted">Short description or placeholder text for Video 1.</p>
+  </div>
+
+  <div class="col-md-6">
+    <h4>Video 2 Title</h4>
+    <video width="100%" controls="">
+      <source src="assets/videos/video2.mp4" type="video/mp4"></source>
+      Your browser does not support the video tag.
+    </video>
+    <p class="text-muted">Short description or placeholder text for Video 2.</p>
+  </div>
+</div>
 
 <hr>
 
-<h3 id="comparison-across-anchor-types"><strong>Comparison Across Anchor Types</strong></h3>
-<video controls="" width="100%">
-  <source src="/danceir-supplementary/videos/anchor_comparison.mp4" type="video/mp4"></source>
-</video>
-<p><em>Different body segments emphasize different metrical layers; DanceIR unifies them.</em></p>
+<h3 id="template-b"><strong>Template B</strong></h3>
+<div class="row">
+  <div class="col-md-6">
+    <video width="100%" controls="">
+      <source src="assets/videos/video_left.mp4" type="video/mp4"></source>
+    </video>
+  </div>
+
+  <div class="col-md-6">
+    <h4>Description</h4>
+    <p>
+      Placeholder text explaining the video.  
+      You can add multiple lines.<br><br>
+      Use this format for supplementary analysis or notes.
+    </p>
+  </div>
+</div>
 
 <hr>
 
-<h2 id="danceir-toolbox">DanceIR Toolbox</h2>
+<h2 id="template-c">Template C</h2>
 
-<p>DanceIR is available as a Python package:</p>
+<div class="row">
+  <div class="col-md-6 text-center">
+    <video width="100%" controls="">
+      <source src="assets/videos/video1.mp4" type="video/mp4"></source>
+    </video>
+    <p><strong>Supplementary Video 1.</strong> Placeholder caption describing Video 1.</p>
+  </div>
 
-<p>```bash
-pip install danceir</p>
+  <div class="col-md-6 text-center">
+    <video width="100%" controls="">
+      <source src="assets/videos/video2.mp4" type="video/mp4"></source>
+    </video>
+    <p><strong>Supplementary Video 2.</strong> Placeholder caption describing Video 2.</p>
+  </div>
+</div>
 
           </article>
 
