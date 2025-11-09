@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://madhavlab.github.io/team/">Post Doctoral Fellow</a>, <a href="https://www.uio.no/ritmo/english/">RITMO Centre for Interdisciplinary Studies in Rhythm, Time and Motion</a>, University of Oslo, Norway
+subtitle: <a href="https://madhavlab.github.io/team/">Post Doctoral Fellow</a>, <a href="https://www.uio.no/ritmo/english/">RITMO Centre for Interdisciplinary Studies in Rhythm, Time and Motion</a><br>University of Oslo, Norway
 
 profile:
   align: right
