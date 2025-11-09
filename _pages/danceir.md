@@ -15,26 +15,24 @@ This page provides an overview of the research, method, and supplementary demons
 
 ---
 
-
 ## Ballet Jazz
 
 
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/762_Ballet Jazz_torso_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/1291_Ballet Jazz_both_foot_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 130.0 | Est BPM: 63.0<br>
-    Segment: torso_y (y)</p>
+    Ref BPM: 120.0 | Est BPM: 121.2<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/763_Ballet Jazz_torso_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/1292_Ballet Jazz_both_foot_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 130.0 | Est BPM: 63.0</p>
+    Ref BPM: 120.0 | Est BPM: 121.2</p>
   </div>
 </div>
 
@@ -42,19 +40,18 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/500_Ballet Jazz_torso_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/929_Ballet Jazz_both_hand_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 130.0 | Est BPM: 67.8<br>
-    Segment: torso_y (y)</p>
+    Ref BPM: 80.0 | Est BPM: 80.4<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/501_Ballet Jazz_torso_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/930_Ballet Jazz_both_hand_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 130.0 | Est BPM: 67.8</p>
+    Ref BPM: 80.0 | Est BPM: 80.4</p>
   </div>
 </div>
 
@@ -64,19 +61,18 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/365_Break_both_hand_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/1037_Break_both_hand_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 100.0 | Est BPM: 100.8<br>
-    Segment: both_hand_y (y)</p>
+    Ref BPM: 110.0 | Est BPM: 111.0<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/366_Break_both_hand_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/1038_Break_both_hand_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 100.0 | Est BPM: 100.8</p>
+    Ref BPM: 110.0 | Est BPM: 111.0</p>
   </div>
 </div>
 
@@ -84,19 +80,18 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/775_Break_both_foot_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/91_Break_both_hand_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 130.0 | Est BPM: 129.0<br>
-    Segment: both_foot_y (y)</p>
+    Ref BPM: 80.0 | Est BPM: 79.8<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/776_Break_both_foot_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/92_Break_both_hand_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 130.0 | Est BPM: 129.0</p>
+    Ref BPM: 80.0 | Est BPM: 79.8</p>
   </div>
 </div>
 
@@ -106,58 +101,15 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/494_House_both_hand_y_y_video_click.mp4" type="video/mp4">
-    </video>
-    <p><strong>Click Track Only</strong><br>
-    Ref BPM: 115.0 | Est BPM: 115.2<br>
-    Segment: both_hand_y (y)</p>
-  </div>
-
-  <div class="col-md-6 text-center">
-    <video width="100%" controls>
-      <source src="with_audio/495_House_both_hand_y_y_video_audio_click.mp4" type="video/mp4">
-    </video>
-    <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 115.0 | Est BPM: 115.2</p>
-  </div>
-</div>
-
-
-<div class="row" style="margin-bottom: 40px;">
-  <div class="col-md-6 text-center">
-    <video width="100%" controls>
-      <source src="with_clicks/427_House_both_hand_y_y_video_click.mp4" type="video/mp4">
-    </video>
-    <p><strong>Click Track Only</strong><br>
-    Ref BPM: 125.0 | Est BPM: 124.8<br>
-    Segment: both_hand_y (y)</p>
-  </div>
-
-  <div class="col-md-6 text-center">
-    <video width="100%" controls>
-      <source src="with_audio/428_House_both_hand_y_y_video_audio_click.mp4" type="video/mp4">
-    </video>
-    <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 125.0 | Est BPM: 124.8</p>
-  </div>
-</div>
-
-## Krump
-
-
-<div class="row" style="margin-bottom: 40px;">
-  <div class="col-md-6 text-center">
-    <video width="100%" controls>
-      <source src="with_clicks/1270_Krump_both_hand_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/603_House_both_foot_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
     Ref BPM: 120.0 | Est BPM: 120.6<br>
-    Segment: both_hand_y (y)</p>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/1271_Krump_both_hand_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/604_House_both_foot_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
     Ref BPM: 120.0 | Est BPM: 120.6</p>
@@ -168,19 +120,58 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/1101_Krump_both_foot_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/711_House_torso_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 90.0 | Est BPM: 91.2<br>
-    Segment: both_foot_y (y)</p>
+    Ref BPM: 125.0 | Est BPM: 61.8<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/1102_Krump_both_foot_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/712_House_torso_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 90.0 | Est BPM: 91.2</p>
+    Ref BPM: 125.0 | Est BPM: 61.8</p>
+  </div>
+</div>
+
+## Krump
+
+
+<div class="row" style="margin-bottom: 40px;">
+  <div class="col-md-6 text-center">
+    <video width="100%" controls>
+      <source src="assets/danceir-examples/with_clicks/13_Krump_both_hand_y_video_click.mp4" type="video/mp4">
+    </video>
+    <p><strong>Click Track Only</strong><br>
+    Ref BPM: 130.0 | Est BPM: 129.0<br>
+  </div>
+
+  <div class="col-md-6 text-center">
+    <video width="100%" controls>
+      <source src="assets/danceir-examples/with_audio/14_Krump_both_hand_y_video_audio_click.mp4" type="video/mp4">
+    </video>
+    <p><strong>Video + Audio + Click</strong><br>
+    Ref BPM: 130.0 | Est BPM: 129.0</p>
+  </div>
+</div>
+
+
+<div class="row" style="margin-bottom: 40px;">
+  <div class="col-md-6 text-center">
+    <video width="100%" controls>
+      <source src="assets/danceir-examples/with_clicks/779_Krump_both_hand_y_video_click.mp4" type="video/mp4">
+    </video>
+    <p><strong>Click Track Only</strong><br>
+    Ref BPM: 120.0 | Est BPM: 118.8<br>
+  </div>
+
+  <div class="col-md-6 text-center">
+    <video width="100%" controls>
+      <source src="assets/danceir-examples/with_audio/780_Krump_both_hand_y_video_audio_click.mp4" type="video/mp4">
+    </video>
+    <p><strong>Video + Audio + Click</strong><br>
+    Ref BPM: 120.0 | Est BPM: 118.8</p>
   </div>
 </div>
 
@@ -190,19 +181,18 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/106_LA style Hip-hop_both_hand_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/771_LA style Hip-hop_both_foot_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 120.0 | Est BPM: 118.8<br>
-    Segment: both_hand_y (y)</p>
+    Ref BPM: 110.0 | Est BPM: 111.0<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/107_LA style Hip-hop_both_hand_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/772_LA style Hip-hop_both_foot_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 120.0 | Est BPM: 118.8</p>
+    Ref BPM: 110.0 | Est BPM: 111.0</p>
   </div>
 </div>
 
@@ -210,19 +200,18 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/1147_LA style Hip-hop_both_hand_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/101_LA style Hip-hop_torso_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 80.0 | Est BPM: 82.2<br>
-    Segment: both_hand_y (y)</p>
+    Ref BPM: 110.0 | Est BPM: 55.2<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/1148_LA style Hip-hop_both_hand_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/102_LA style Hip-hop_torso_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 80.0 | Est BPM: 82.2</p>
+    Ref BPM: 110.0 | Est BPM: 55.2</p>
   </div>
 </div>
 
@@ -232,19 +221,18 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/628_Lock_both_foot_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/454_Lock_both_foot_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 80.0 | Est BPM: 80.4<br>
-    Segment: both_foot_y (y)</p>
+    Ref BPM: 110.0 | Est BPM: 106.8<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/629_Lock_both_foot_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/455_Lock_both_foot_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 80.0 | Est BPM: 80.4</p>
+    Ref BPM: 110.0 | Est BPM: 106.8</p>
   </div>
 </div>
 
@@ -252,19 +240,18 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/1111_Lock_both_hand_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/51_Lock_both_foot_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 100.0 | Est BPM: 100.8<br>
-    Segment: both_hand_y (y)</p>
+    Ref BPM: 120.0 | Est BPM: 60.0<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/1112_Lock_both_hand_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/52_Lock_both_foot_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 100.0 | Est BPM: 100.8</p>
+    Ref BPM: 120.0 | Est BPM: 60.0</p>
   </div>
 </div>
 
@@ -274,19 +261,18 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/886_Middle Hip-hop_both_foot_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/648_Middle Hip-hop_torso_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 80.0 | Est BPM: 79.2<br>
-    Segment: both_foot_y (y)</p>
+    Ref BPM: 80.0 | Est BPM: 79.8<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/887_Middle Hip-hop_both_foot_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/649_Middle Hip-hop_torso_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 80.0 | Est BPM: 79.2</p>
+    Ref BPM: 80.0 | Est BPM: 79.8</p>
   </div>
 </div>
 
@@ -294,16 +280,15 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/1049_Middle Hip-hop_both_foot_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/366_Middle Hip-hop_both_hand_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
     Ref BPM: 90.0 | Est BPM: 90.0<br>
-    Segment: both_foot_y (y)</p>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/1050_Middle Hip-hop_both_foot_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/367_Middle Hip-hop_both_hand_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
     Ref BPM: 90.0 | Est BPM: 90.0</p>
@@ -316,19 +301,18 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/346_Pop_both_foot_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/1178_Pop_both_hand_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 110.0 | Est BPM: 111.0<br>
-    Segment: both_foot_y (y)</p>
+    Ref BPM: 130.0 | Est BPM: 127.2<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/347_Pop_both_foot_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/1179_Pop_both_hand_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 110.0 | Est BPM: 111.0</p>
+    Ref BPM: 130.0 | Est BPM: 127.2</p>
   </div>
 </div>
 
@@ -336,19 +320,18 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/352_Pop_both_hand_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/158_Pop_both_hand_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 120.0 | Est BPM: 120.0<br>
-    Segment: both_hand_y (y)</p>
+    Ref BPM: 130.0 | Est BPM: 129.0<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/353_Pop_both_hand_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/159_Pop_both_hand_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 120.0 | Est BPM: 120.0</p>
+    Ref BPM: 130.0 | Est BPM: 129.0</p>
   </div>
 </div>
 
@@ -358,19 +341,18 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/860_Street Jazz_both_hand_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/984_Street Jazz_both_foot_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 90.0 | Est BPM: 46.2<br>
-    Segment: both_hand_y (y)</p>
+    Ref BPM: 130.0 | Est BPM: 123.0<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/861_Street Jazz_both_hand_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/985_Street Jazz_both_foot_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 90.0 | Est BPM: 46.2</p>
+    Ref BPM: 130.0 | Est BPM: 123.0</p>
   </div>
 </div>
 
@@ -378,19 +360,18 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/1193_Street Jazz_torso_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/889_Street Jazz_both_hand_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 130.0 | Est BPM: 66.0<br>
-    Segment: torso_y (y)</p>
+    Ref BPM: 120.0 | Est BPM: 64.8<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/1194_Street Jazz_torso_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/890_Street Jazz_both_hand_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 130.0 | Est BPM: 66.0</p>
+    Ref BPM: 120.0 | Est BPM: 64.8</p>
   </div>
 </div>
 
@@ -400,16 +381,15 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/1062_Waack_torso_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/606_Waack_torso_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
     Ref BPM: 80.0 | Est BPM: 76.8<br>
-    Segment: torso_y (y)</p>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/1063_Waack_torso_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/607_Waack_torso_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
     Ref BPM: 80.0 | Est BPM: 76.8</p>
@@ -420,19 +400,19 @@ This page provides an overview of the research, method, and supplementary demons
 <div class="row" style="margin-bottom: 40px;">
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_clicks/1066_Waack_both_hand_y_y_video_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_clicks/1146_Waack_both_foot_y_video_click.mp4" type="video/mp4">
     </video>
     <p><strong>Click Track Only</strong><br>
-    Ref BPM: 130.0 | Est BPM: 136.2<br>
-    Segment: both_hand_y (y)</p>
+    Ref BPM: 120.0 | Est BPM: 118.8<br>
   </div>
 
   <div class="col-md-6 text-center">
     <video width="100%" controls>
-      <source src="with_audio/1067_Waack_both_hand_y_y_video_audio_click.mp4" type="video/mp4">
+      <source src="assets/danceir-examples/with_audio/1147_Waack_both_foot_y_video_audio_click.mp4" type="video/mp4">
     </video>
     <p><strong>Video + Audio + Click</strong><br>
-    Ref BPM: 130.0 | Est BPM: 136.2</p>
+    Ref BPM: 120.0 | Est BPM: 118.8</p>
   </div>
 </div>
+
 
