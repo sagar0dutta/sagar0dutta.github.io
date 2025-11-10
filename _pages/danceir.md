@@ -14,14 +14,14 @@ nav_order: 3
 This page provides the supplementary video material for the paper
 ***Estimating Global Tempo from Dance Movement Using Kinematic Rhythmic Anchors***.
 
-For each dance genre, two example videos are included, each annotated with the **estimated BPM** and the **reference BPM**:
+For each dance genre, four supplementary videos are included, each annotated with the **estimated BPM** and the **reference BPM**:
 
 1. **Rhythmic Anchor Pulse Only**
    – shows the movement-derived rhythmic anchor pulse, rendered as audio clicks.
 2. **Music + Anchor Pulse**
    – shows the original music track with the same audio-click pulse overlaid.
 
-These examples illustrate how the estimated rhythmic anchor follows the dancer’s global tempo. Importantly, the anchor pulse does **not** need to coincide exactly with the audio beat onsets. Instead, it often occupies a different—but musically coherent—phase position within the metrical cycle. This demonstrates that dancers are fully synchronized at the tempo level, even though the most stable movement anchor selected by the algorithm may align with a subdivision, upbeat, or other valid phase of the rhythm rather than the beat itself.
+These videos illustrate how the estimated rhythmic anchor follows the dancer’s global tempo. Importantly, the anchor pulse does **not** need to coincide exactly with the audio beat onsets. Instead, it often occupies a different—but musically coherent—phase position within the metrical cycle. This demonstrates that dancers are fully synchronized at the tempo level, even though the most stable movement anchor selected by the algorithm may align with a subdivision, upbeat, or other valid phase of the rhythm rather than the beat itself.
 
 ---
 
