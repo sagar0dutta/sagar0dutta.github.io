@@ -5,7 +5,7 @@ title: publications
 description: 
 years: [2024, 2023, 2022, 2021, 2020 ]
 years_conf: [2014, 2016, 2017, 2022, 2024]
-nav: true
+nav: false
 nav_order: 1
 ---
 

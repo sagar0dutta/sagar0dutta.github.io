@@ -17,6 +17,7 @@ news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+nav: false
 ---
 
 I received my Ph.D. in Electronics and Communication Engineering from the National Institute of Technology Silchar, India (2022). My dissertation, _Pattern Recognition Based on Microwave Signal Using Artificial Intelligence_, focused on pattern recognition using antenna reactive fields, with applications in human activity recognition (HAR) and machine health monitoring.
