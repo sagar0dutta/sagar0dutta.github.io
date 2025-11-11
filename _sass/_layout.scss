@@ -2,6 +2,11 @@
  * Content
  ******************************************************************************/
 
+// Hide navigation bar
+#navbar {
+  display: none !important;
+}
+
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
@@ -14,7 +19,7 @@ body {
 
 body.fixed-top-nav {
   // Add some padding for the nav-bar.
-  padding-top: 56px;
+  // padding-top: 56px; // Removed since navbar is hidden
 }
 
 body.sticky-bottom-footer {
