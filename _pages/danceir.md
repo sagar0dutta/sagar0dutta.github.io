@@ -12,7 +12,7 @@ nav_order: 3
 ## **Supplementary Videos**
 
 This page provides the supplementary video material for the paper
-***Estimating Global Tempo from Dance Movement Using Kinematic Rhythmic Anchors***.
+***Estimating Music Tempo from Dance Movement Using Kinematic Rhythmic Anchors***.
 
 For each dance genre, four supplementary videos are included, each annotated with the **estimated BPM**, the **reference BPM** and the corresponding **Body part** that reflects musical tempo:
 
